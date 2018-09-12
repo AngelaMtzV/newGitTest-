@@ -7,6 +7,6 @@
   <li>wheelbarrow</li>
   <li>shovel</li>
   <li>gloves>/li>
-  <li>rope</li>
+  <li>rope>/li>
   </ul>
   
